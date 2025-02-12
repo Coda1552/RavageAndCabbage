@@ -16,10 +16,12 @@ import net.minecraft.nbt.CompoundTag;
 import net.minecraft.network.syncher.EntityDataAccessor;
 import net.minecraft.network.syncher.EntityDataSerializers;
 import net.minecraft.network.syncher.SynchedEntityData;
+import net.minecraft.resources.ResourceLocation;
 import net.minecraft.server.level.ServerLevel;
 import net.minecraft.sounds.SoundEvent;
 import net.minecraft.sounds.SoundEvents;
 import net.minecraft.sounds.SoundSource;
+import net.minecraft.tags.ItemTags;
 import net.minecraft.util.Mth;
 import net.minecraft.world.InteractionHand;
 import net.minecraft.world.InteractionResult;
@@ -267,7 +269,7 @@ public class RCRavagerEntity extends TamableAnimal implements PlayerRideable, Sa
 
 	@Override
 	public boolean isFood(ItemStack stack) {
-		return stack.getItem() == RCItems.CABBAGE.get();
+		return stack.is(ItemTags.create(new ResourceLocation("forge", "crops/cabbage")));
 	}
 
 	@Override
