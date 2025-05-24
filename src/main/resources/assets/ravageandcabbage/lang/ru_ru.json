@@ -1,0 +1,43 @@
+{
+  "itemGroup.ravageandcabbage": "Разорение & Капустение",
+
+  "item.ravageandcabbage.cabbage": "Капуста",
+  "item.ravageandcabbage.cabbage_seeds": "Семена капусты",
+  "item.ravageandcabbage.corrupted_cabbage": "Испорченная капуста",
+  "item.ravageandcabbage.ravager_milk": "Ведро молока разорителя",
+  "item.ravageandcabbage.leather_horn_armor": "Кожаный бронерог",
+  "item.ravageandcabbage.golden_horn_armor": "Золотой бронерог",
+  "item.ravageandcabbage.iron_horn_armor": "Железный бронерог",
+  "item.ravageandcabbage.diamond_horn_armor": "Алмазный бронерог",
+  "item.ravageandcabbage.netherite_horn_armor": "Незеритовый бронерог",
+
+  "item.ravageandcabbage.cabbager_spawn_egg": "Яйцо призыва капустника",
+  "item.ravageandcabbage.ravager_spawn_egg": "Яйцо призыва разорителя",
+
+  "entity.ravageandcabbage.ravager": "Разоритель",
+  "entity.ravageandcabbage.cabbager": "Капустник",
+  "entity.ravageandcabbage.cabbage": "Брошенная капуста",
+  "entity.ravageandcabbage.corrupted_cabbage": "Испорченная капуста",
+
+  "entity.ravageandcabbage.corrupted_villager.armorer": "Испорченный бронник",
+  "entity.ravageandcabbage.corrupted_villager.butcher": "Испорченный мясник",
+  "entity.ravageandcabbage.corrupted_villager.cartographer": "Испорченный картограф",
+  "entity.ravageandcabbage.corrupted_villager.cleric": "Испорченный священник",
+  "entity.ravageandcabbage.corrupted_villager.farmer": "Испорченный фермер",
+  "entity.ravageandcabbage.corrupted_villager.fisherman": "Испорченный рыбак",
+  "entity.ravageandcabbage.corrupted_villager.fletcher": "Испорченный лучник",
+  "entity.ravageandcabbage.corrupted_villager.leatherworker": "Испорченный кожевник",
+  "entity.ravageandcabbage.corrupted_villager.librarian": "Испорченный библиотекарь",
+  "entity.ravageandcabbage.corrupted_villager.mason": "Испорченный каменщик",
+  "entity.ravageandcabbage.corrupted_villager.none": "Испорченный крестьянин",
+  "entity.ravageandcabbage.corrupted_villager.nitwit": "Испорченный деревенщина",
+  "entity.ravageandcabbage.corrupted_villager.shepherd": "Испорченный пастух",
+  "entity.ravageandcabbage.corrupted_villager.toolsmith": "Испорченный инструментальщик",
+  "entity.ravageandcabbage.corrupted_villager.weaponsmith": "Испорченный оружейник",
+  "entity.ravageandcabbage.corrupted_villager": "Испорченный крестьянин",
+
+  "block.ravageandcabbage.cabbage_crop": "Посев капусты",
+
+  "key.ravageandcabbage.attack_key": "Атака разорителя",
+  "key.category.ravageandcabbage": "Разорение & Капустение"
+}
